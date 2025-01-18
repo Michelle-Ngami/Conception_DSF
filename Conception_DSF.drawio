@@ -376,10 +376,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jclQQDMFsEUQar5XZO0B-37" value="&lt;b&gt;2. Bearer token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="jclQQDMFsEUQar5XZO0B-37" value="&lt;b&gt;2. Envoie du token en entête des requêttes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jclQQDMFsEUQar5XZO0B-38" value="&lt;b&gt;4. Acess token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="jclQQDMFsEUQar5XZO0B-38" value="&lt;b&gt;4. token d&#39;accès&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="576" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jclQQDMFsEUQar5XZO0B-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.004;exitY=-0.086;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jclQQDMFsEUQar5XZO0B-8" target="jclQQDMFsEUQar5XZO0B-21" edge="1">
@@ -401,7 +401,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jclQQDMFsEUQar5XZO0B-42" value="&lt;b&gt;5.Validate token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="jclQQDMFsEUQar5XZO0B-42" value="&lt;b&gt;5. valider le token&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="380" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
