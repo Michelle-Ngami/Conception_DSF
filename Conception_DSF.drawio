@@ -331,13 +331,13 @@
         <mxCell id="jclQQDMFsEUQar5XZO0B-17" value="Microsoft Entra ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;fontColor=light-dark(#928dcb, #ededed);" parent="1" vertex="1">
           <mxGeometry x="540" y="425" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jclQQDMFsEUQar5XZO0B-18" value="&lt;b&gt;App Registration 3&lt;/b&gt;&lt;div&gt;for API Locale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#d5e8d4;strokeColor=none;glass=1;" parent="1" vertex="1">
+        <mxCell id="jclQQDMFsEUQar5XZO0B-18" value="&lt;b&gt;App Registration 3&lt;/b&gt;&lt;div&gt;pour API Locale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#d5e8d4;strokeColor=none;glass=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jclQQDMFsEUQar5XZO0B-21" value="&lt;b&gt;App Registration 2&lt;/b&gt;&lt;div&gt;for API principale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#d5e8d4;strokeColor=none;glass=1;" parent="1" vertex="1">
+        <mxCell id="jclQQDMFsEUQar5XZO0B-21" value="&lt;b&gt;App Registration 2&lt;/b&gt;&lt;div&gt;pour API principale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#d5e8d4;strokeColor=none;glass=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jclQQDMFsEUQar5XZO0B-22" value="&lt;b&gt;App Registration 1&lt;/b&gt;&lt;div&gt;for frontend NextJS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#d5e8d4;strokeColor=none;glass=1;" parent="1" vertex="1">
+        <mxCell id="jclQQDMFsEUQar5XZO0B-22" value="&lt;b&gt;App Registration 1&lt;/b&gt;&lt;div&gt;pour frontend NextJS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;fillColor=#d5e8d4;strokeColor=none;glass=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jclQQDMFsEUQar5XZO0B-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jclQQDMFsEUQar5XZO0B-23" target="jclQQDMFsEUQar5XZO0B-18" edge="1">
