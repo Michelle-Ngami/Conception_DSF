@@ -993,7 +993,7 @@
         <mxCell id="JHPWZHF2hNg9e0YafB32-7" value="&lt;span data-colorformula=&quot;THEMEGUARD(RGB(255,255,255))&quot; data-colorparams=&quot;#ffffff_null_null&quot; style=&quot;font-family: Calibri; font-size: 16pt; color: rgb(48, 48, 48);&quot;&gt;&lt;strong&gt;Direction des Système&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-colorformula=&quot;THEMEGUARD(RGB(255,255,255))&quot; data-colorparams=&quot;#ffffff_null_null&quot; style=&quot;font-family: Calibri; font-size: 16pt; color: rgb(48, 48, 48);&quot;&gt;&lt;strong&gt;d&#39;Information&lt;/strong&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JHPWZHF2hNg9e0YafB32-29">
           <mxGeometry y="80" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JHPWZHF2hNg9e0YafB32-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;strokeColor=#808080;" edge="1" parent="1" source="JHPWZHF2hNg9e0YafB32-7" target="JHPWZHF2hNg9e0YafB32-9">
+        <mxCell id="JHPWZHF2hNg9e0YafB32-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;strokeColor=#808080;strokeWidth=2;" edge="1" parent="1" source="JHPWZHF2hNg9e0YafB32-7" target="JHPWZHF2hNg9e0YafB32-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-230" y="730" />
@@ -1001,7 +1001,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHPWZHF2hNg9e0YafB32-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeColor=#808080;" edge="1" parent="1" source="JHPWZHF2hNg9e0YafB32-7" target="JHPWZHF2hNg9e0YafB32-11">
+        <mxCell id="JHPWZHF2hNg9e0YafB32-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeColor=#808080;strokeWidth=2;" edge="1" parent="1" source="JHPWZHF2hNg9e0YafB32-7" target="JHPWZHF2hNg9e0YafB32-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-230" y="730" />
