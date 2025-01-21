@@ -408,15 +408,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_D9zNgDMvsMB3CaNKi-8" name="SD_Auth-Multi-Company">
-    <mxGraphModel dx="6270" dy="2610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3352" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G68ypNQKPUaKY41bFIFY-1" value="Utilisateur" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry y="300" width="100" height="680" as="geometry" />
+          <mxGeometry y="300" width="100" height="880" as="geometry" />
         </mxCell>
         <mxCell id="G68ypNQKPUaKY41bFIFY-2" value="MS Entra ID" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="263" y="300" width="100" height="730" as="geometry" />
+          <mxGeometry x="263" y="300" width="100" height="890" as="geometry" />
         </mxCell>
         <mxCell id="G68ypNQKPUaKY41bFIFY-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G68ypNQKPUaKY41bFIFY-2">
           <mxGeometry x="47" y="110" width="10" height="60" as="geometry" />
@@ -431,7 +431,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G68ypNQKPUaKY41bFIFY-3" value="Application FrontEnd" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="525" y="300" width="100" height="730" as="geometry" />
+          <mxGeometry x="525" y="300" width="100" height="880" as="geometry" />
         </mxCell>
         <mxCell id="G68ypNQKPUaKY41bFIFY-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="G68ypNQKPUaKY41bFIFY-3">
           <mxGeometry x="45" y="70" width="10" height="100" as="geometry" />
@@ -630,6 +630,25 @@
         </mxCell>
         <mxCell id="G68ypNQKPUaKY41bFIFY-61" value="Pour chaque demande du client, l&#39;identifiant de la société est envoyé pour les vérifications côté Backend" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="870" y="840" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G68ypNQKPUaKY41bFIFY-62" value="si Admin" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=30;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1030" width="1230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G68ypNQKPUaKY41bFIFY-63" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="570" y="1060" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G68ypNQKPUaKY41bFIFY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1098" as="sourcePoint" />
+            <mxPoint x="49" y="1098" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1098" />
+              <mxPoint x="460" y="1098" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G68ypNQKPUaKY41bFIFY-65" value="Accès à une autre interface ou il peut manipuler les données en rapport&amp;nbsp;&lt;div&gt;avec toutes les sociétés du Système&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1061" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
