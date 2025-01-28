@@ -674,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copie de Diagramme_classe" id="sAInUBp9SPaTB_44OAQI">
-    <mxGraphModel dx="5404" dy="3634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4038" dy="2874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Z375uEBu3RqQqHkyUfMS-0" />
         <mxCell id="Z375uEBu3RqQqHkyUfMS-1" parent="Z375uEBu3RqQqHkyUfMS-0" />
@@ -775,18 +775,6 @@
         </mxCell>
         <mxCell id="Z375uEBu3RqQqHkyUfMS-35" value="pathfile: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-33">
           <mxGeometry y="52" width="140" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-42" value="posséder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="-400" y="348" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-49" value="disposer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="215" y="378" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-50" value="associé" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="440" y="446" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-51" value="appartenir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="-90" y="354" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z375uEBu3RqQqHkyUfMS-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Informations de l&#39;entreprise&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Les données tels que: NUI, le registre de commerce, etc. qui sont renseignés dans la ficher R1 seront ils renseignés par l&#39;utilisateur ou doivent-ils être automatiquement (cf Fiche-R1)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
           <mxGeometry x="-810" y="950" width="490" height="140" as="geometry" />
