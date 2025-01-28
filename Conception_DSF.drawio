@@ -674,7 +674,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copie de Diagramme_classe" id="sAInUBp9SPaTB_44OAQI">
-    <mxGraphModel dx="3748" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Z375uEBu3RqQqHkyUfMS-0" />
         <mxCell id="Z375uEBu3RqQqHkyUfMS-1" parent="Z375uEBu3RqQqHkyUfMS-0" />
@@ -764,15 +764,18 @@
         <mxCell id="Z375uEBu3RqQqHkyUfMS-35" value="pathfile: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-33">
           <mxGeometry y="52" width="190" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Z375uEBu3RqQqHkyUfMS-1" source="Z375uEBu3RqQqHkyUfMS-58" target="Z375uEBu3RqQqHkyUfMS-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.334;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Z375uEBu3RqQqHkyUfMS-1" source="Z375uEBu3RqQqHkyUfMS-58" target="Z375uEBu3RqQqHkyUfMS-81">
+        <mxCell id="Z375uEBu3RqQqHkyUfMS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.427;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Z375uEBu3RqQqHkyUfMS-1" source="Z375uEBu3RqQqHkyUfMS-58" target="Z375uEBu3RqQqHkyUfMS-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-590" y="219" />
-              <mxPoint x="-590" y="140" />
-              <mxPoint x="-598" y="140" />
+              <mxPoint x="-735" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z375uEBu3RqQqHkyUfMS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.394;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Z375uEBu3RqQqHkyUfMS-1" source="Z375uEBu3RqQqHkyUfMS-58" target="Z375uEBu3RqQqHkyUfMS-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-585" y="219" />
+              <mxPoint x="-585" y="121" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -838,11 +841,11 @@
         <mxCell id="Z375uEBu3RqQqHkyUfMS-79" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Remarques :&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;- On va manipuler chaque classe ou donnée en fonction de company (c-a-d&amp;nbsp; &amp;nbsp;toute les classe vont hérités de company).&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
           <mxGeometry x="-820" y="760" width="430" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z375uEBu3RqQqHkyUfMS-80" value="&amp;lt;Template DGI&amp;gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="-795" y="99" width="140" height="21" as="geometry" />
+        <mxCell id="Z375uEBu3RqQqHkyUfMS-80" value="&amp;lt;Template DGI&amp;gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=21;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
+          <mxGeometry x="-795" y="91.5" width="140" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Z375uEBu3RqQqHkyUfMS-81" value="&amp;lt;Template DSF&amp;gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="-645" y="97" width="140" height="24" as="geometry" />
+          <mxGeometry x="-640" y="91.5" width="140" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Z375uEBu3RqQqHkyUfMS-82" value="&lt;div&gt;&lt;i&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;Traceability&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#bac8d3;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#23445d;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
           <mxGeometry x="-360" y="-160" width="140" height="180" as="geometry" />
@@ -936,7 +939,7 @@
           <mxGeometry x="740" y="-74" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8WVjo0FWWdLkfjxtC6fj-12" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
-          <mxGeometry x="506" y="-110" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="-122" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8WVjo0FWWdLkfjxtC6fj-13" value="&lt;b&gt;RolePrivilege&amp;nbsp;&lt;/b&gt;: &lt;i&gt;Traceability&lt;/i&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=32;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z375uEBu3RqQqHkyUfMS-1">
           <mxGeometry x="840" y="60" width="185" height="84" as="geometry">
