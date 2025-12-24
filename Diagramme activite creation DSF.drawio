@@ -219,8 +219,11 @@
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-87" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Saisie / complétion&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;manuelle des états&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="143.12" x="-180" y="1271" as="geometry" />
         </mxCell>
-        <mxCell id="QWvJHWODfEAWVQ-fN9RL-92" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QWvJHWODfEAWVQ-fN9RL-91" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-92" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="QWvJHWODfEAWVQ-fN9RL-91" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="1400.1432337434094" as="sourcePoint" />
+            <mxPoint x="793" y="1396.821616871705" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
           <mxGeometry height="60" width="195" x="220" y="1370" as="geometry" />
@@ -236,7 +239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="60" width="187" x="793" y="1370" as="geometry" />
+          <mxGeometry height="70" width="187" x="793" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-93" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Mise à jour fichier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DSF dans la solution&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="172.58588235294118" x="800.21" y="1380" as="geometry" />
