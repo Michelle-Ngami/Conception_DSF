@@ -210,11 +210,9 @@
             <mxPoint x="200" y="1291" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWvJHWODfEAWVQ-fN9RL-89" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QWvJHWODfEAWVQ-fN9RL-88" value="">
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-89" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="QWvJHWODfEAWVQ-fN9RL-94" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-108" y="1400" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="-108" y="1320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -230,11 +228,42 @@
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-90" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Import fichier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DSF modifié&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="172.58588235294118" x="231.20999999999998" y="1380" as="geometry" />
         </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-99" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QWvJHWODfEAWVQ-fN9RL-98" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="887" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="60" width="187" x="793" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-93" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Mise à jour fichier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DSF dans la solution&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="172.58588235294118" x="800.21" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-96" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="190" x="-198" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-94" parent="QWvJHWODfEAWVQ-fN9RL-96" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="60" width="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-95" parent="QWvJHWODfEAWVQ-fN9RL-96" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Contrôle de conformité&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="153.12" x="18.439999999999998" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-97" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-94" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="QWvJHWODfEAWVQ-fN9RL-88" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-10" y="1400" as="sourcePoint" />
+            <mxPoint x="40" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-101" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="190" x="220" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-98" parent="QWvJHWODfEAWVQ-fN9RL-101" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-100" parent="QWvJHWODfEAWVQ-fN9RL-101" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Export DSF&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;format DGI&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="45" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
