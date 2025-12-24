@@ -184,6 +184,31 @@
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-76" parent="QWvJHWODfEAWVQ-fN9RL-77" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Calcul des états&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;financiers&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="143.12" x="3.4400000000000546" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-79" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QWvJHWODfEAWVQ-fN9RL-78" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-81" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="170" x="205" y="1261" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-78" parent="QWvJHWODfEAWVQ-fN9RL-81" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="60" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-80" parent="QWvJHWODfEAWVQ-fN9RL-81" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Génération fichier&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DSF&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="143.12" x="13.439999999999998" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="60" width="190" x="-200" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-86" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="QWvJHWODfEAWVQ-fN9RL-85" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1291" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-87" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Saisie / complétion&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;manuelle des états&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="143.12" x="-180" y="1271" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
