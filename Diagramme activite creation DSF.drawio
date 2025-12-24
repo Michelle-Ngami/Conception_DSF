@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="1040" width="1390" x="-281" y="500" as="geometry" />
+          <mxGeometry height="1180" width="1390" x="-281" y="500" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-4" parent="1" style="line;strokeWidth=2;html=1;" value="" vertex="1">
           <mxGeometry height="10" width="1390" x="-280" y="540" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-6" parent="1" style="line;strokeWidth=2;direction=south;html=1;" value="" vertex="1">
-          <mxGeometry height="1040" width="10" x="120" y="500" as="geometry" />
+          <mxGeometry height="1180" width="10" x="120" y="500" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-8" parent="1" style="line;strokeWidth=2;direction=south;html=1;" value="" vertex="1">
-          <mxGeometry height="1040" width="10" x="590" y="500" as="geometry" />
+          <mxGeometry height="1180" width="10" x="590" y="500" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-9" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="APPLICATION EXCEL" vertex="1">
           <mxGeometry height="40" width="290" x="-220" y="500" as="geometry" />
@@ -228,10 +228,10 @@
           <mxGeometry height="40" width="172.58588235294118" x="231.20999999999998" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="60" width="187" x="793" y="1360" as="geometry" />
+          <mxGeometry height="60" width="187" x="793" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-93" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Mise à jour fichier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;DSF dans la solution&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="172.58588235294118" x="800.21" y="1370" as="geometry" />
+          <mxGeometry height="40" width="172.58588235294118" x="800.21" y="1380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
