@@ -184,8 +184,11 @@
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-76" parent="QWvJHWODfEAWVQ-fN9RL-77" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Calcul des états&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;financiers&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="143.12" x="3.4400000000000546" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="QWvJHWODfEAWVQ-fN9RL-79" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-79" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QWvJHWODfEAWVQ-fN9RL-78" value="">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="866" y="1291" />
+            </Array>
             <mxPoint x="290" y="1190" as="sourcePoint" />
             <mxPoint x="290" y="1260" as="targetPoint" />
           </mxGeometry>
