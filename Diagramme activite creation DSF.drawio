@@ -25,7 +25,7 @@
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-11" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="SYSTÈME DSF" vertex="1">
           <mxGeometry height="40" width="200" x="770" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="QWvJHWODfEAWVQ-fN9RL-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" value="" vertex="1">
+        <mxCell id="QWvJHWODfEAWVQ-fN9RL-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="310" y="550" as="geometry" />
         </mxCell>
         <mxCell id="QWvJHWODfEAWVQ-fN9RL-14" edge="1" parent="1" source="QWvJHWODfEAWVQ-fN9RL-12" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="QWvJHWODfEAWVQ-fN9RL-15" value="">
