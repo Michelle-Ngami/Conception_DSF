@@ -340,7 +340,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ViMM9lVxiwDlfV9MVkc_-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="60" width="180" x="880" y="940" as="geometry" />
+          <mxGeometry height="60" width="180" x="810" y="940" as="geometry" />
         </mxCell>
         <mxCell id="yjsgKWT560uTiYYPZUWV-13" parent="ViMM9lVxiwDlfV9MVkc_-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
           <mxGeometry height="60" width="180" as="geometry" />
