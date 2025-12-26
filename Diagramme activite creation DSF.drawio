@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a-3vO-RCgbJ0gyGnIDMH" name="gestion multi-entité">
-    <mxGraphModel dx="1393" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,14 +376,23 @@
         <mxCell id="ViMM9lVxiwDlfV9MVkc_-15" parent="ViMM9lVxiwDlfV9MVkc_-16" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Sélection d’une entité&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="20" y="10" as="geometry" />
         </mxCell>
+        <mxCell id="RAv38XPHzyTHLBua4Q_g-4" edge="1" parent="1" source="ViMM9lVxiwDlfV9MVkc_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RAv38XPHzyTHLBua4Q_g-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ViMM9lVxiwDlfV9MVkc_-17" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" value="" vertex="1">
-          <mxGeometry height="60" width="200" x="470" y="1350" as="geometry" />
+          <mxGeometry height="60" width="240" x="450" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="ViMM9lVxiwDlfV9MVkc_-18" edge="1" parent="1" source="ViMM9lVxiwDlfV9MVkc_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ViMM9lVxiwDlfV9MVkc_-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ViMM9lVxiwDlfV9MVkc_-19" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Chargement des données&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;de l’entité&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="480" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="RAv38XPHzyTHLBua4Q_g-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" value="" vertex="1">
+          <mxGeometry height="60" width="220" x="460" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="RAv38XPHzyTHLBua4Q_g-6" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Opérations autorisées&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;selon le rôle&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="125" x="510" y="1500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
