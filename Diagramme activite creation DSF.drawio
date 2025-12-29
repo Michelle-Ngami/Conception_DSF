@@ -420,7 +420,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hzcncZ-5xP0TYE0fJ9GC-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
-          <mxGeometry height="890" width="810" x="10" y="10" as="geometry" />
+          <mxGeometry height="1560" width="810" x="10" y="10" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-7" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="200" width="450" x="188.75" y="40" as="geometry" />
@@ -447,50 +447,83 @@
           <mxGeometry height="30" width="150" x="21.25" y="145" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-8" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="390" width="450" x="189" y="370" as="geometry" />
+          <mxGeometry height="670" width="450" x="189" y="370" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-9" parent="MxblIfkBEY6YMyL8irIi-8" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="440" width="450" y="-50" as="geometry" />
+          <mxGeometry height="755.8974358974359" width="450" y="-85.8974358974359" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-11" parent="MxblIfkBEY6YMyL8irIi-8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font&gt;Architecture 3-tiers ASP.NET Core&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="250" x="99" y="-10" as="geometry" />
+          <mxGeometry height="68.71794871794872" width="250" x="99" y="-17.17948717948718" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-22" connectable="0" parent="MxblIfkBEY6YMyL8irIi-8" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="280" x="90" y="50" as="geometry" />
+          <mxGeometry height="124.1" width="280" x="90" y="85.9" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-17" parent="MxblIfkBEY6YMyL8irIi-22" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="100" width="280" as="geometry" />
+          <mxGeometry height="124.1" width="280" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-18" parent="MxblIfkBEY6YMyL8irIi-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Service (Controllers)" vertex="1">
-          <mxGeometry height="30" width="140" x="64" as="geometry" />
+          <mxGeometry height="37.23" width="140" x="64" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-19" parent="MxblIfkBEY6YMyL8irIi-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Exposition des endpoints REST&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="199" y="30" as="geometry" />
+          <mxGeometry height="37.23" width="199" y="37.23" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-21" parent="MxblIfkBEY6YMyL8irIi-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Routage des requêtes" vertex="1">
-          <mxGeometry height="30" width="137" x="4" y="50" as="geometry" />
+          <mxGeometry height="37.23" width="137" x="4" y="59.466377515614155" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-23" connectable="0" parent="MxblIfkBEY6YMyL8irIi-8" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="280" x="90" y="200" as="geometry" />
+          <mxGeometry height="156.41" width="280" x="90" y="277.59" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-24" parent="MxblIfkBEY6YMyL8irIi-23" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="100" width="280" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-33" connectable="0" parent="MxblIfkBEY6YMyL8irIi-23" style="group" value="" vertex="1">
+          <mxGeometry height="156.41" width="282" x="-2" y="-12" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-25" parent="MxblIfkBEY6YMyL8irIi-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Service (Controllers)" vertex="1">
-          <mxGeometry height="30" width="140" x="64" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-35" connectable="0" parent="MxblIfkBEY6YMyL8irIi-33" style="group" value="" vertex="1">
+          <mxGeometry height="156.41" width="282" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-26" parent="MxblIfkBEY6YMyL8irIi-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Exposition des endpoints REST&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="199" y="30" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-24" parent="MxblIfkBEY6YMyL8irIi-35" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="156.41" width="280" x="2" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-27" parent="MxblIfkBEY6YMyL8irIi-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Routage des requêtes" vertex="1">
-          <mxGeometry height="30" width="137" x="4" y="50" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-25" parent="MxblIfkBEY6YMyL8irIi-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BLL (Business Logic Layer)&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="43.31353846153846" width="170" x="57" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-29" edge="1" parent="MxblIfkBEY6YMyL8irIi-8" source="MxblIfkBEY6YMyL8irIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MxblIfkBEY6YMyL8irIi-25" value="">
+        <mxCell id="MxblIfkBEY6YMyL8irIi-26" parent="MxblIfkBEY6YMyL8irIi-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Validations métier" vertex="1">
+          <mxGeometry height="43.31353846153846" width="120" x="2" y="43.31353846153846" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-27" parent="MxblIfkBEY6YMyL8irIi-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Orchestration des traitements" vertex="1">
+          <mxGeometry height="31.281999999999996" width="186" y="73.3923846153846" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-32" parent="MxblIfkBEY6YMyL8irIi-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Gestion des fichiers (ClosedXML / EPPlus)" vertex="1">
+          <mxGeometry height="31.281999999999996" width="242" x="6" y="96.45546153846152" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-31" edge="1" parent="MxblIfkBEY6YMyL8irIi-8" source="MxblIfkBEY6YMyL8irIi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.065;entryDx=0;entryDy=0;entryPerimeter=0;" target="MxblIfkBEY6YMyL8irIi-25" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="224" y="170" />
-              <mxPoint x="224" y="170" />
+              <mxPoint x="225" y="220" />
+              <mxPoint x="225" y="220" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-36" connectable="0" parent="MxblIfkBEY6YMyL8irIi-8" style="group" value="" vertex="1">
+          <mxGeometry height="156.41" width="282" x="88" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-37" parent="MxblIfkBEY6YMyL8irIi-36" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="156.41" width="280" x="2" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-38" parent="MxblIfkBEY6YMyL8irIi-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DAL (Data Access Layer)&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="163" x="60.5" y="13.31" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-39" parent="MxblIfkBEY6YMyL8irIi-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Entity Framework Core" vertex="1">
+          <mxGeometry height="43.31" width="148" x="2" y="43.31" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-40" parent="MxblIfkBEY6YMyL8irIi-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Accès SQL Server" vertex="1">
+          <mxGeometry height="24.67" width="130" x="-2" y="73.79" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-41" parent="MxblIfkBEY6YMyL8irIi-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Transactions et persistance" vertex="1">
+          <mxGeometry height="15.54" width="164" x="5" y="99.46" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-44" edge="1" parent="MxblIfkBEY6YMyL8irIi-8" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="227" y="421.9999999999998" as="sourcePoint" />
+            <mxPoint x="227" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-16" edge="1" parent="1" source="Zo4FGhArX0PRXjte1AaH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MxblIfkBEY6YMyL8irIi-9" value="">
@@ -498,6 +531,15 @@
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-10" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BACKEND&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="107.5" x="360.25" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="120" width="191" x="200" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="120" width="191" x="440" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DAL (Data Access Layer)&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="163" x="214" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
