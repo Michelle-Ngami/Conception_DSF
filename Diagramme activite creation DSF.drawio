@@ -447,28 +447,31 @@
           <mxGeometry height="30" width="150" x="21.25" y="145" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-8" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="200" width="450" x="188" y="370" as="geometry" />
+          <mxGeometry height="270" width="450" x="189" y="370" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-9" parent="MxblIfkBEY6YMyL8irIi-8" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="200" width="450" as="geometry" />
+          <mxGeometry height="320" width="450" y="-50" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-10" parent="MxblIfkBEY6YMyL8irIi-8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BACKEND&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="107.5" x="171.25" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-11" parent="MxblIfkBEY6YMyL8irIi-8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font&gt;Architecture 3-tiers ASP.NET Core&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="110" y="-10" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-11" parent="MxblIfkBEY6YMyL8irIi-8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font&gt;Application Web (Next.js)&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="109.25" y="30" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-17" parent="MxblIfkBEY6YMyL8irIi-8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="100" width="280" x="90" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-12" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Next.js" vertex="1">
-          <mxGeometry height="30" width="60" x="21.25" y="80" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-18" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API (Controllers)" vertex="1">
+          <mxGeometry height="30" width="110" x="170" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-13" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Material UI (MUI)&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="21.25" y="108" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-19" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Exposition des endpoints REST&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="199" x="90" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-14" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Redux (state management)" vertex="1">
-          <mxGeometry height="30" width="160" x="25.25" y="123" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-21" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Exposition des endpoints REST&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="199" x="90" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-15" parent="MxblIfkBEY6YMyL8irIi-8" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Axios (API REST client)" vertex="1">
-          <mxGeometry height="30" width="150" x="21.25" y="145" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-16" edge="1" parent="1" source="Zo4FGhArX0PRXjte1AaH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MxblIfkBEY6YMyL8irIi-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-10" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BACKEND&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="107.5" x="360.25" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
