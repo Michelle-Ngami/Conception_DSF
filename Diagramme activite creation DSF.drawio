@@ -415,7 +415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j6b2iIM-khWKEV69C0q4" name="Page-3">
-    <mxGraphModel dx="978" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,6 +562,27 @@
             <mxPoint x="536.4999999999998" y="960" as="sourcePoint" />
             <mxPoint x="536.1669999999999" y="1020.7700000000002" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="240" width="390" x="218" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(Artefact métier central)&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="146" x="343" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Outil de saisie manuelle des états" vertex="1">
+          <mxGeometry height="30" width="215.5" x="217.5" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Exécution des formules de calcul" vertex="1">
+          <mxGeometry height="30" width="217" x="215" y="1262" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Support de validation" vertex="1">
+          <mxGeometry height="10" width="135.5" x="223.5" y="1293" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Interaction utilisateur hors système NZEKA" vertex="1">
+          <mxGeometry height="30" width="247.5" x="225.5" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-65" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Application Excel&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="328" y="1180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
