@@ -509,7 +509,7 @@
           <mxGeometry height="156.41" width="280" x="2" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-38" parent="MxblIfkBEY6YMyL8irIi-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DAL (Data Access Layer)&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="163" x="60.5" y="13.31" as="geometry" />
+          <mxGeometry height="30" width="163" x="60.5" y="3" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-39" parent="MxblIfkBEY6YMyL8irIi-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Entity Framework Core" vertex="1">
           <mxGeometry height="43.31" width="148" x="2" y="43.31" as="geometry" />
@@ -533,13 +533,19 @@
           <mxGeometry height="40" width="107.5" x="360.25" y="330" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
-          <mxGeometry height="120" width="191" x="200" y="1120" as="geometry" />
+          <mxGeometry height="120" width="211" x="189" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
-          <mxGeometry height="120" width="191" x="440" y="1120" as="geometry" />
+          <mxGeometry height="120" width="199" x="440" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DAL (Data Access Layer)&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="163" x="214" y="1120" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Base de données" vertex="1">
+          <mxGeometry height="30" width="116" x="236.5" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- SQL Server (Azure SQL DB)" vertex="1">
+          <mxGeometry height="30" width="191" x="180" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Utilisateurs / rôles&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="122" x="188" y="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
