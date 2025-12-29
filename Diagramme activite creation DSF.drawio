@@ -453,7 +453,7 @@
           <mxGeometry height="320" width="450" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-11" parent="MxblIfkBEY6YMyL8irIi-8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font&gt;Architecture 3-tiers ASP.NET Core&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="110" y="-10" as="geometry" />
+          <mxGeometry height="40" width="250" x="99" y="-10" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-17" parent="MxblIfkBEY6YMyL8irIi-8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="100" width="280" x="90" y="50" as="geometry" />
