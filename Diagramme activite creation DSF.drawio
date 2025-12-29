@@ -525,19 +525,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
-          <mxGeometry height="120" width="211" x="189" y="1110" as="geometry" />
+          <mxGeometry height="110" width="201" x="189" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="" vertex="1">
-          <mxGeometry height="120" width="199" x="440" y="1110" as="geometry" />
+          <mxGeometry height="110" width="199" x="440" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Base de données" vertex="1">
-          <mxGeometry height="30" width="116" x="236.5" y="1120" as="geometry" />
+          <mxGeometry height="30" width="116" x="231.5" y="1120" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- SQL Server (Azure SQL DB)" vertex="1">
-          <mxGeometry height="30" width="191" x="180" y="1150" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- SQL Server" vertex="1">
+          <mxGeometry height="30" width="100" x="182" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="MxblIfkBEY6YMyL8irIi-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Utilisateurs / rôles&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="122" x="188" y="1170" as="geometry" />
+        <mxCell id="MxblIfkBEY6YMyL8irIi-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Azure SQL DB" vertex="1">
+          <mxGeometry height="20" width="97" x="191" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stockage de fichiers" vertex="1">
+          <mxGeometry height="20" width="120.5" x="479.25" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="MxblIfkBEY6YMyL8irIi-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- Azure Blob Storage&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="120.5" x="449" y="1155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
