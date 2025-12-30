@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9" pages="4">
   <diagram name="etablissement DSF" id="1lukdKXyd_3oRqfg8G7y">
     <mxGraphModel dx="2220" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,8 +414,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="j6b2iIM-khWKEV69C0q4" name="Page-3">
-    <mxGraphModel dx="1182" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="j6b2iIM-khWKEV69C0q4" name="architecture générale">
+    <mxGraphModel dx="1418" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,6 +583,101 @@
         </mxCell>
         <mxCell id="MxblIfkBEY6YMyL8irIi-65" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Application Excel&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="328" y="1180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-1i2ehQ0tHf63RaP3PUw" name="flux d&#39;authentification">
+    <mxGraphModel dx="1182" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="algV4eIUoc2M2zUgLx79-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="1. Utilisateur accède à l&#39;app" vertex="1">
+          <mxGeometry height="78" width="260" x="322" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="2. MsalProvider vérifie la session" vertex="1">
+          <mxGeometry height="78" width="260" x="322" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="loginRedirect vers Azure AD" vertex="1">
+          <mxGeometry height="54" width="257" x="212" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Page d&#39;authentification Azure AD" vertex="1">
+          <mxGeometry height="78" width="260" x="210" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Redirection avec tokens" vertex="1">
+          <mxGeometry height="54" width="231" x="224" y="792" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Utilisateur authentifié" vertex="1">
+          <mxGeometry height="54" width="220" x="342" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="3. AuthProvider récupère le profil utilisateur via API Backend" vertex="1">
+          <mxGeometry height="102" width="260" x="322" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="4. Chargement des rôles et privilèges" vertex="1">
+          <mxGeometry height="78" width="260" x="322" y="1152" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="5. PermissionProvider agrège les permissions" vertex="1">
+          <mxGeometry height="78" width="260" x="322" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="6. Application rendue avec contexte complet" vertex="1">
+          <mxGeometry height="78" width="260" x="322" y="1408" as="geometry" />
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-11" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-12" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-3" value="Non authentifié">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-13" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-14" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-15" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.24;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-16" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.76;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-6" value="Déjà authentifié">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="523" />
+              <mxPoint x="564" y="871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-17" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-18" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-19" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="algV4eIUoc2M2zUgLx79-20" edge="1" parent="1" source="algV4eIUoc2M2zUgLx79-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="algV4eIUoc2M2zUgLx79-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
